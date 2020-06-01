@@ -1,0 +1,7 @@
+C:\Users\odo19\source\repos\Arv\Arv\bin\Debug\Arv.exe.config
+C:\Users\odo19\source\repos\Arv\Arv\bin\Debug\Arv.exe
+C:\Users\odo19\source\repos\Arv\Arv\bin\Debug\Arv.pdb
+C:\Users\odo19\source\repos\Arv\Arv\obj\Debug\Arv.csprojAssemblyReference.cache
+C:\Users\odo19\source\repos\Arv\Arv\obj\Debug\Arv.exe
+C:\Users\odo19\source\repos\Arv\Arv\obj\Debug\Arv.pdb
+C:\Users\odo19\source\repos\Arv\Arv\obj\Debug\Arv.csproj.CoreCompileInputs.cache
